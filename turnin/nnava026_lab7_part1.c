@@ -1,9 +1,10 @@
 /*	Author: lab
  *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
+ *	Lab Section:21
+ *	Assignment: Lab #7  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
- *
+ *	https://youtu.be/_R745N4WScY
+ *	For some reason my max and min was different from what was in the video, and then I tried rewiring to see if maybe wiring was the problem but that didnt change anything.
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
  */
