@@ -3,7 +3,9 @@
  *	Lab Section:
  *	Assignment: Lab #7  Exercise #3
  *	Exercise Description: [optional - include for your own benefit]
- *	Demo Video: https://youtu.be/hKn3WsQE3vw
+ *	Demo Video: https://youtu.be/gLBwyajFbZQ
+ *
+ *	My max is different because for some reason with my other max the light would never ever turn off even with all my lights off and a mug covering the small light from the programmer and the power supply. My max in this video was 0X147.
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
